@@ -1,9 +1,14 @@
-# api documentation for  [grunt-postcss (v0.8.0)](https://github.com/ndmitry/grunt-postcss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-postcss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-postcss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-postcss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-postcss)
+# npmdoc-grunt-postcss
+
+#### api documentation for  [grunt-postcss (v0.8.0)](https://github.com/ndmitry/grunt-postcss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-postcss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-postcss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-postcss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-postcss)
+
 #### Apply several post-processors to your CSS using PostCSS
 
-[![NPM](https://nodei.co/npm/grunt-postcss.png?downloads=true)](https://www.npmjs.com/package/grunt-postcss)
+[![NPM](https://nodei.co/npm/grunt-postcss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-postcss)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-postcss_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-postcss/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Dmitry Nikitenko",
-        "email": "dima.nikitenko@gmail.com"
+        "name": "Dmitry Nikitenko"
     },
     "bugs": {
         "url": "https://github.com/ndmitry/grunt-postcss/issues"
@@ -63,8 +67,7 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "weiss",
-            "email": "dima.nikitenko@gmail.com"
+            "name": "weiss"
         }
     ],
     "name": "grunt-postcss",
@@ -72,7 +75,6 @@
     "peerDependencies": {
         "grunt": ">=0.4.5"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ndmitry/grunt-postcss.git"
@@ -83,16 +85,6 @@
     "version": "0.8.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-postcss](#apidoc.module.grunt-postcss)
-
-
-
-# <a name="apidoc.module.grunt-postcss"></a>[module grunt-postcss](#apidoc.module.grunt-postcss)
 
 
 
